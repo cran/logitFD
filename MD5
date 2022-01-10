@@ -1,0 +1,10 @@
+85c552d17d275789bfad0764c24f4a09 *DESCRIPTION
+3f55285040ff04262883dcf11d710db0 *NAMESPACE
+196ae316938f71339831d93848fd591e *R/logitFD.fpc.R
+36a3fcdf21f7de3bf52f0ac96fb3161f *R/logitFD.fpc.step.R
+736430ed6c7bf83f5af9250145f7117d *R/logitFD.pc.R
+2d8ece42a381fae4537a74c5949c1c30 *R/logitFD.pc.step.R
+3e8783dc1d0d312f4593764062d02ef0 *man/logitFD.fpc.Rd
+dc33224c317f7a3f412c85c0caa6be85 *man/logitFD.fpc.step.Rd
+cd199e7bde011cbd9bd52bdd75515b1c *man/logitFD.pc.Rd
+7ff5ce30a104590f826822915bd43807 *man/logitFD.pc.step.Rd
